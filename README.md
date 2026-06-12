@@ -23,7 +23,7 @@ The goal of this repository is to understand how modern LLMs work by implementin
 
 Course: **LLMs From Scratch – Sebastian Raschka**  
 YouTube Playlist: https://youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&si=yGWaUJB2Sqrthsuc
-## 👩‍💻 Author
+## Author
 
 **Shruti Bahuguna**  
 Assistant Professor | AI & Machine Learning Enthusiast
