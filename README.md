@@ -22,8 +22,7 @@ The goal of this repository is to understand how modern LLMs work by implementin
 ## Learning Resource
 
 Course: **LLMs From Scratch – Sebastian Raschka**  
-YouTube Playlist: https://www.youtube.com/watch?v=7m2jV7BOFkA&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu
-
+YouTube Playlist: https://youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&si=yGWaUJB2Sqrthsuc
 ## 👩‍💻 Author
 
 **Shruti Bahuguna**  
